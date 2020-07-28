@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "outDir": "build/lib",
+    "outDir": "build",
     "target": "es5",
     "lib": [
       "dom",
