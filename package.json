@@ -36,8 +36,7 @@
         "material-ui-popup-state": "^1.6.1",
         "nanoid": "^3.1.11",
         "react": "^16.13.1",
-        "react-dom": "^16.13.1",
-        "@harryy/rehooks": "^0.1.0"
+        "react-dom": "^16.13.1"
     },
     "devDependencies": {
         "@commitlint/cli": "^9.1.1",
@@ -62,6 +61,6 @@
         "react-scripts": "3.4.1",
         "simple-progress-webpack-plugin": "^1.1.2",
         "standard-version": "^8.0.2",
-        "typescript": "3.9.7"
+        "typescript": "^3.9.7"
     }
 }
